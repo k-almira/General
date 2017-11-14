@@ -4,7 +4,7 @@
 * https://www.hava.io/ - provides reverse engineering capability to live link accounts.  Fees are based on the number of resources you want to visualize (i.e., place on diagram).
 
 ### AWS Architecture:
-Monthly themes covering AWS architecture
+Monthly themes covering AWS architecture.
 * https://aws.amazon.com/architecture/ - Great place to find reference architectures for deploying on AWS (some will even include CloudFormation templates). This should be your go to reference before deploying anything -- see if someone at AWS has already done it.
 
 ### Architecture Blogs
@@ -20,10 +20,10 @@ Monthly themes covering AWS architecture
 * Acloud Guru Blogs - https://read.acloud.guru/ - Content is curated by former head of Cloud Engineering at Capital One. It's great place for cutting edge discussions and tech details.
 
 ### AWS Certification Notes:
-*https://gist.github.com/miglen/797fd38d0e26b9f68a1f
+https://gist.github.com/miglen/797fd38d0e26b9f68a1f
 
- ### Snapshot Scheduler: 
- http://docs.aws.amazon.com/solutions/latest/ebs-snapshot-scheduler/deployment.html
+### Snapshot Scheduler: 
+http://docs.aws.amazon.com/solutions/latest/ebs-snapshot-scheduler/deployment.html
 
 ### Cloud Custodian: 
 http://www.capitalone.io/cloud-custodian/docs/
