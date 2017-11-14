@@ -20,13 +20,13 @@ Monthly themes covering AWS architecture.
 * Acloud Guru Blogs - https://read.acloud.guru/ - Content is curated by former head of Cloud Engineering at Capital One. It's great place for cutting edge discussions and tech details.
 
 ### AWS Certification Notes:
-https://gist.github.com/miglen/797fd38d0e26b9f68a1f
+* https://gist.github.com/miglen/797fd38d0e26b9f68a1f
 
 ### Snapshot Scheduler: 
-http://docs.aws.amazon.com/solutions/latest/ebs-snapshot-scheduler/deployment.html
+* http://docs.aws.amazon.com/solutions/latest/ebs-snapshot-scheduler/deployment.html
 
 ### Cloud Custodian: 
-http://www.capitalone.io/cloud-custodian/docs/
+* http://www.capitalone.io/cloud-custodian/docs/
 
 ### Boto3: 
-http://boto3.readthedocs.io/en/latest/reference/services/
+* http://boto3.readthedocs.io/en/latest/reference/services/
