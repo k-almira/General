@@ -30,3 +30,9 @@ Monthly themes covering AWS architecture.
 
 ### Boto3: 
 * http://boto3.readthedocs.io/en/latest/reference/services/
+
+### Writing Cloud Governance Policies:
+Policies should be wrriten as:
+* Statement
+* Rationale
+* Implications
