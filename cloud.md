@@ -21,6 +21,7 @@ Policies should be wrriten as:
 ### AWS Architecture:
 Monthly themes covering AWS architecture.
 * https://aws.amazon.com/architecture/ - Great place to find reference architectures for deploying on AWS (some will even include CloudFormation templates). This should be your go to reference before deploying anything -- see if someone at AWS has already done it.
+* draw.io - open-source diagramming tool (i.e. Visio)
 * AWS IP Ranges - https://ip-ranges.amazonaws.com/ip-ranges.json
 
 ### Architecture Blogs
