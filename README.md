@@ -1,4 +1,16 @@
-# general
+# Cloud:
+
+### General Cloud/Software Development/DevOps:
+* Dzone - https://dzone.com/cloud-computing-tutorials-tools-news - Good info on serverless, DevOps, Kubernetes, etc. Wide knowledge to understand what's driving development teams
+
+### Writing Cloud Governance Policies:
+Policies should be wrriten as:
+* Statement
+* Rationale
+* Implications
+
+## AWS:
+
 ### Diagramming Dynamic Environments:
 * https://cloudcraft.co/ - provides capability tp Live synch with an AWS account.  Fees are based on a per user basis.
 * https://www.hava.io/ - provides reverse engineering capability to live link accounts.  Fees are based on the number of resources you want to visualize (i.e., place on diagram).
@@ -10,9 +22,6 @@ Monthly themes covering AWS architecture.
 
 ### Architecture Blogs
 * https://aws.amazon.com/blogs/architecture/
-
-### General Cloud/Software Development/DevOps:
-* Dzone - https://dzone.com/cloud-computing-tutorials-tools-news - Good info on serverless, DevOps, Kubernetes, etc. Wide knowledge to understand what's driving development teams
 
 ### Transformation (evangelizing change):
 * Enterprise Series - https://medium.com/aws-enterprise-collection - Collection of writings by Stephen Orban and other Enterprise leaders at AWS. These are the articles to help drive leadership understanding.
@@ -32,11 +41,9 @@ Monthly themes covering AWS architecture.
 ### Boto3: 
 * http://boto3.readthedocs.io/en/latest/reference/services/
 
-### Writing Cloud Governance Policies:
-Policies should be wrriten as:
-* Statement
-* Rationale
-* Implications
+
+
+# Config Mgmt:
 
 ### Ansible:
 * http://docs.ansible.com/ansible/latest/intro.html
