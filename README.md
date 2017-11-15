@@ -54,7 +54,7 @@ Monthly themes covering AWS architecture.
 
 # Data:
 
-###Technical Skills
+### Technical Skills
 * Math (e.g. linear algebra, calculus and probability)
 * Statistics (e.g. hypothesis testing and summary statistics)
 * Machine learning tools and techniques (e.g. k-nearest neighbors, random forests, ensemble methods, etc.)
