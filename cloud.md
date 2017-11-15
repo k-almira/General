@@ -9,6 +9,9 @@ Policies should be wrriten as:
 * Rationale
 * Implications
 
+### Tools:
+* Terraform - useful for provisioning resources on both private and public clouds
+
 ## AWS:
 
 ### Diagramming Dynamic Environments:
@@ -40,3 +43,4 @@ Monthly themes covering AWS architecture.
 
 ### Boto3: 
 * http://boto3.readthedocs.io/en/latest/reference/services/
+
