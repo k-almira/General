@@ -54,6 +54,8 @@ Monthly themes covering AWS architecture.
 
 # Data:
 
+* http://analyticscosm.com/how-to-become-a-data-scientist-2/
+
 ### Technical Skills:
 * Math (e.g. linear algebra, calculus and probability)
 * Statistics (e.g. hypothesis testing and summary statistics)
