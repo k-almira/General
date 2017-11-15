@@ -1,7 +1,7 @@
 # Cloud:
 
 ### General Cloud/Software Development/DevOps:
-* Dzone - https://dzone.com/cloud-computing-tutorials-tools-news - Good info on serverless, DevOps, Kubernetes, etc. Wide knowledge to understand what's driving development teams
+* # Dzone # - https://dzone.com/cloud-computing-tutorials-tools-news - Good info on serverless, DevOps, Kubernetes, etc. Wide knowledge to understand what's driving development teams
 
 ### Writing Cloud Governance Policies:
 Policies should be wrriten as:
