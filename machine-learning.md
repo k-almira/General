@@ -1,5 +1,7 @@
  # Machine Learning
- * [Machine Learning 101](http://www.learningmachines101.com/)
+
+## OCDevel Podcast:
+* [Machine Learning 101](http://www.learningmachines101.com/)
  
 Two definitions of Machine Learning are offered.  
  * Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
@@ -15,31 +17,7 @@ Two definitions of Machine Learning are offered.
 * In general, any machine learning problem can be assigned to one of two broad classifications:
 Supervised learning and Unsupervised learning.
  
- Supervised Learning
-
-In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
-
-Supervised learning problems are categorized into "regression" and "classification" problems. In a regression problem, we are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function. In a classification problem, we are instead trying to predict results in a discrete output. In other words, we are trying to map input variables into discrete categories.
-
-Example 1:
-
-Given data about the size of houses on the real estate market, try to predict their price. Price as a function of size is a continuous output, so this is a regression problem.
-
-We could turn this example into a classification problem by instead making our output about whether the house "sells for more or less than the asking price." Here we are classifying the houses based on price into two discrete categories.
-
-Example 2:
-
-(a) Regression - Given a picture of a person, we have to predict their age on the basis of the given picture
-
-(b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
- 
- 
- 
- 
- 
- 
- 
- There are 3 steps in machine learning.
+There are 3 steps in machine learning.
  1. infer / predict
  2. error / loss
  3. train / learn
@@ -74,7 +52,7 @@ Example 2:
 * [Data Skeptic](https://dataskeptic.com/)
 * [Partially Derivative](http://partiallyderivative.com/)
 
-# Autiobooks:
+# Audiobooks:
 * [The Singularity Is Near: When Humans Transcend Biology](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/B004ZF18PW/ref=as_li_ss_tl?_encoding=UTF8&me=&linkCode=sl1&tag=ha0d2-20&linkId=9d852e3d5f8b6f2d6cc88127c4c173e3)
 * [Philosophy of Mind: Brains, Consciousness, and Thinking Machines](https://www.amazon.com/Philosophy-Mind-Consciousness-Thinking-Machines/dp/B00DTO5LQC/ref=as_li_ss_tl?ie=UTF8&qid=1487117614&sr=8-1&keywords=Philosophy+of+Mind:+Brains,+Consciousness,+and+Thinking+Machines&linkCode=sl1&tag=ha0d2-20&linkId=d7c1b4629401ed22a155817410495b4e)
 * [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/dp/B00LPMFE9Y/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=ha0d2-20&linkId=31e656f5a68ca4c9232c3757aaafb79c)
@@ -109,3 +87,44 @@ Example 2:
   * Connectionism optimizations: Geoffrey Hinton: 2006, optimized back propagation
 * Bloomberg, 2015 was whopper for AI in industry
 * AlphaGo & DeepMind
+
+ 
+## Coursera: ML Course by Andrew Ng: 
+### Supervised Learning
+
+In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
+
+Supervised learning problems are categorized into "regression" and "classification" problems. In a regression problem, we are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function. In a classification problem, we are instead trying to predict results in a discrete output. In other words, we are trying to map input variables into discrete categories.
+
+Example 1:
+
+Given data about the size of houses on the real estate market, try to predict their price. Price as a function of size is a continuous output, so this is a regression problem.
+
+We could turn this example into a classification problem by instead making our output about whether the house "sells for more or less than the asking price." Here we are classifying the houses based on price into two discrete categories.
+
+Example 2:
+
+(a) Regression - Given a picture of a person, we have to predict their age on the basis of the given picture
+
+(b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
+ 
+### Unsupervised Learning
+
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
+We can derive this structure by clustering the data based on relationships among the variables in the data.
+With unsupervised learning there is no feedback based on the prediction results.
+
+Example:
+
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+
+Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
